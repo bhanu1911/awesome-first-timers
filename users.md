@@ -359,8 +359,8 @@
   Facebook:  
 
 - Name: Bhanu Bhandari 
-  Place: New Delhi, India
-  Bio: Keras enthusiast, ML and Finance are love. 
-       [I write.](https://nybles.iiita.ac.in). Practices InfoSec as a Hobby.   
-  GitHub: [Bhanu Bhandari](https://github.com/bhanu1911)
-  Facebook: [Bhanu Bhandari](https://facebook.com/falafelraider)
+ Place: New Delhi, India
+ Bio: Keras enthusiast, ML and Finance are love. 
+ [I write.](https://nybles.iiita.ac.in) Practices InfoSec as a Hobby.   
+ GitHub: [Bhanu Bhandari](https://github.com/bhanu1911)
+ Facebook: [Bhanu Bhandari](https://facebook.com/falafelraider)
