@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+- Name: Bhanu Bhandari 
+  Place: New Delhi, India
+  Bio: Keras enthusiast, ML and Finance are love. [I write.] (https://nybles.iiita.ac.in). Practices InfoSec as a Hobby.   
+  GitHub: [bhanu1911](https://github.com/bhanu1911)
